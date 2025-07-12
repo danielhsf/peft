@@ -1,0 +1,7 @@
+transformers==4.53.2
+datasets==3.6.0
+sacrebleu==2.5.1
+accelerate==1.8.1
+peft==0.10.0
+bitsandbytes==0.46.1
+fsspec==2023.9.2
